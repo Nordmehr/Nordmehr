@@ -1,4 +1,4 @@
-# Tere! 👋 Mina olen [Evelyn Uusmaa]
+# Tere! 👋 Mina olen [Evelyn]
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
  
