@@ -34,6 +34,7 @@ I have extensive experience in accounting and financial processes. I am now expa
 * **Email:** [evelyn.uusmaa@gmail.com](mailto:evelyn.uusmaa@gmail.com)
 * **LinkedIn:** [linkedin.com/in/evelynuusmaa](https://www.linkedin.com/in/evelynuusmaa)
 
+"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard
 ---
 
 <a id="eesti-keeles"></a>
