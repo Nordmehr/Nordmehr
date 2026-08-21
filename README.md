@@ -27,7 +27,7 @@ I have extensive experience in accounting and financial processes. I am now expa
 ## 📂 Projects
 
 * [**DACA Portfolio**](https://github.com/Nordmehr/daca-portfolio) – a collection of projects completed during an 11-week data analytics programme
-* [**Power BI TalTech Project**](https://github.com/Nordmehr/powerbi-taltech-project) – football match data analysis and interactive Power BI dashboards
+* [**Power BI TalTech Project**](https://github.com/Nordmehr/PowerBI-school-project-Taltch) – football match data analysis and interactive Power BI dashboards
 
 ## 📫 Contact
 
