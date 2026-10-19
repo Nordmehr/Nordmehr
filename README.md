@@ -35,6 +35,7 @@ I have extensive experience in accounting and financial processes. I am now expa
 * **LinkedIn:** [linkedin.com/in/evelynuusmaa](https://www.linkedin.com/in/evelynuusmaa)
 
 _"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
+
 ---
 
 <a id="eesti-keeles"></a>
