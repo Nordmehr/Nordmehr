@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Evelyn
+# Hi! I'm Evelyn
 
 [English](#english) | [Eesti keeles](#eesti-keeles)
 
@@ -39,7 +39,7 @@ _"Data is the new oil, but analytics is the combustion engine." – Peter Sonder
 
 <a id="eesti-keeles"></a>
 
-# Tere! 👋 Mina olen Evelyn
+# Tere! Mina olen Evelyn
 
 ## 🎯 Minu teekond andmeanalüütikasse
 
